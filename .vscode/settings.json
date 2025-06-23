@@ -1,0 +1,14 @@
+{
+  "python.analysis.extraPaths": [
+    "YOUR_PATH/KU-DATA403-simulator-tutorials/package/rl",
+    "YOUR_PATH/KU-DATA403-simulator-tutorials/package/mujoco_usage",
+    "YOUR_PATH/KU-DATA403-simulator-tutorials/package/helper",
+    "YOUR_PATH/KU-DATA403-simulator-tutorials/package/gym"
+    ],
+  "python.autoComplete.extraPaths": [
+    "YOUR_PATH/KU-DATA403-simulator-tutorials/package/rl",
+    "YOUR_PATH/KU-DATA403-simulator-tutorials/package/mujoco_usage",
+    "YOUR_PATH/KU-DATA403-simulator-tutorials/package/helper",
+    "YOUR_PATH/KU-DATA403-simulator-tutorials/package/gym"
+    ],
+}
